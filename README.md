@@ -1,4 +1,4 @@
-# carros-esportivos
+# autosuper
 tabalho de pensamento computacional sobre carros esportivos
 
 trablho feito por:vinicius rocha da silva e natan ficher
