@@ -1,9 +1,9 @@
 # autosuper
 tabalho de pensamento computacional sobre carros esportivos
 
-trabalho feito por:vinicius rocha da silva e natan fischer
+trabalho feito por: Vinicius Rocha da Silva e Natan Fischer
 
-professora;giseli
+professora: Giseli
 
-colégio estadual do campo luiz de jesus correia.
+Colégio Estadual do campo Luiz de Jesus Correia.
 
